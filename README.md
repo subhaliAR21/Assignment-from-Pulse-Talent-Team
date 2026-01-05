@@ -62,4 +62,7 @@ A secure, full-stack multi-tenant application for video uploading, sensitivity a
 
 ### Video Processing
 - Upon upload, videos enter a **PENDING** state.
-- After a simulated analysis, they move to **SAFE** (playable) or **FLAGGED** (playback disabled).   
+- After a simulated analysis, they move to **SAFE** (playable) or **FLAGGED** (playback disabled).
+
+#### Loom Video Link : https://www.loom.com/share/14001c64a32d424aaeca62e7c9144055
+
